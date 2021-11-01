@@ -4,6 +4,7 @@ dnspython
 pymongo
 requests
 pyrogram
+aiohttp
 pytgcalls==3.0.0.dev19
 python-dotenv
 tgcrypto
