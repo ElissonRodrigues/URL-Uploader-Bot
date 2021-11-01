@@ -2,11 +2,9 @@ telethon
 cryptg
 dnspython
 pymongo
-requests
-pyrogram
+aiohttp
+aiofiles
 pytgcalls==3.0.0.dev19
 python-dotenv
-tgcrypto
 pyromod
 inflect
-telegraph
